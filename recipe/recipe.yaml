@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.1"
+  version: "0.4.0"
 
 package:
   name: pysepal-api
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pysepal-api/pysepal_api-${{ version }}.tar.gz
-  sha256: 745f5bff42578bdc4fbff78490f1e60bb235f67a07ccf959fe4099055d1b885e
+  sha256: f4bac051c2cbb73f18c2c04377f50fb68dbb25b7263e95551cbe1fcbaafbdbee
 
 build:
   number: 0
